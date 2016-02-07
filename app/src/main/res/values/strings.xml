@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">IBANStash</string>
+
+    <string name="tab_add">Add</string>
+    <string name="tab_list">List</string>
+    <string name="tab_remove">Remove</string>
+
+    <string name="empty_list">No saved entries</string>
+    <string name="list_entry">%1$s %2$s</string>
+
+    <string name="field_iban">IBAN</string>
+    <string name="field_name">Name</string>
+    <string name="name_ok"></string>
+    <string name="name_not_ok">Please give a name</string>
+    <string name="iban_empty">Please give an IBAN</string>
+    <string name="iban_ok">Valid</string>
+    <string name="iban_not_ok">Not a valid IBAN</string>
+    <string name="button_add">Add</string>
+    <string name="added_entry">Added entry with name %1$s and IBAN %2$s</string>
+    <string name="no_entry_added"></string>
+
+    <string name="button_remove">Remove</string>
+    <string name="clear_entries">Delete all</string>
+
+</resources>
